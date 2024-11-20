@@ -54,6 +54,14 @@ I am a dedicated **Data Analytics Professional** with a strong foundation in **M
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
     </picture>
   </a>
+
+  ---
+
+  ### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/AasirR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AasirR&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <a href="https://www.x.com/Iam_Aasir" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
