@@ -4,7 +4,7 @@
 ---
 
 ## Data Analytics Professional  
-I am a dedicated **Data Analytics Professional** with a strong foundation in **Mathematics**, **Computer Science**, and **Data-Driven Decision-Making**. Based in **Puttalam, North Western Province, Sri Lanka**, I bring years of experience in leveraging data to uncover actionable insights, drive business decisions, and enhance organizational success.
+I am a dedicated **Data Analytics Professional** with a strong foundation in **Mathematics**, **Computer Science**, and **Data-Driven Decision-Making**. Based in **Puttalam, North Western Province, Sri Lanka**, I bring 7 years of experience in leveraging data to uncover actionable insights, drive business decisions, and enhance organizational success.
 
 - 🌍 **Location:** Sri Lanka  
 - 📬 **Contact Me:** [mohamedaasir1992@gmail.com](mailto:mohamedaasir1992@gmail.com)
